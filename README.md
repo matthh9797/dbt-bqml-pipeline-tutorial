@@ -1,1 +1,0 @@
-# dbt-bqml-pipeline-tutorial
